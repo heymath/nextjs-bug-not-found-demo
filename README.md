@@ -1,5 +1,7 @@
 # Bug
 
+Next.js bug with Not Found when using PagesRouter + AppRouter + trailingSlash config + pageExtensions config
+
 ![Image](https://github.com/user-attachments/assets/2a7f6313-4237-44fc-88b3-7c2722aea8b7)
 
 
