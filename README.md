@@ -1,3 +1,8 @@
+# Bug
+
+![Image](https://github.com/user-attachments/assets/2a7f6313-4237-44fc-88b3-7c2722aea8b7)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
